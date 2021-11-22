@@ -1,0 +1,40 @@
+/* Author:45 */
+
+/*CSS Formats*/
+
+body {
+	font-family: 'Slabo 27px', serif;
+	font-size: 15px;
+	background-color: #E9EBEE;
+	color: black;
+}
+.PageHeader {
+	font-family 'Slabo 27px', serif;
+	font-size: 55px;
+	background-color: #FFFFFF;
+	color: black;
+	text-align: center;
+}
+
+.SectionHeader {
+	font-family 'Slabo 27px', serif;
+	font-size: 30px;
+	background-color: #E9EBEE;
+	color: black;
+	text-align: center;
+}
+
+form {
+	font-family: 'Slabo 27px', serif;
+	font-size: 15px;
+	background-color: #FFFFFF;
+	color: black;
+	text-align: center;
+}
+
+
+h1 strong {
+	display: block;
+ 	font-size: 30%;
+ 	opacity: 0.75;
+}
